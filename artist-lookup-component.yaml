@@ -4,8 +4,8 @@ metadata:
   name: marketplace-backend
   description: Marketplace Backend
   tags:
-    - DotNET 
-    - Backend
+    - csharp 
+    - backend
   links:
     - url: https://example.com/user
       title: Examples Users
