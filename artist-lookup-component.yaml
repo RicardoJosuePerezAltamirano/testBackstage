@@ -4,7 +4,7 @@ metadata:
   name: marketplace-backend
   description: Marketplace Backend
   tags:
-    - .NET 
+    - DotNET 
     - Backend
   links:
     - url: https://example.com/user
